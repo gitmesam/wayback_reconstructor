@@ -1,2 +1,5 @@
-# wayback_reconstructor
-A tool for reconstructing a website from the Wayback Machine's backups
+## wayback_reconstructor
+##### Collects links from the site 
+## Requirements:
+##### python 3
+##### module requests
